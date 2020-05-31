@@ -4,4 +4,5 @@ Made 2nd commit also
 new changes
 
 My change1
-My change2
+<<<<<<< HEAD
+My change2 -synced with My change2
